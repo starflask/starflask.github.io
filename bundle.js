@@ -11033,7 +11033,7 @@ Vue.compile = compileToFunctions;
 /* 2 */
 /***/ (function(module, exports) {
 
-module.exports = {"properties":[{"id":"bungalowlane","name":"Home 1","blurb":"A funky house.","description":"A reallllly funky house.","gps_url":"https://www.google.com/maps/@43.3318325,-84.0771058,15z","thumbnail":"testhome.jpeg","images":["testhome.jpeg","testhome2.jpeg","testhome3.jpeg"]}]}
+module.exports = {"properties":[{"id":"bungalowlane","name":"Home 1","blurb":"A funky house.","description":"A reallllly funky house.","gps_url":"https://www.google.com/maps/@43.3318325,-84.0771058,15z","thumbnail":"testhome.jpeg","images":["testhome.jpeg","testhome2.jpeg","testhome3.jpeg"],"attributes":["2BR 2BA","Close to Downtown","Perfect for Two"]}]}
 
 /***/ }),
 /* 3 */
